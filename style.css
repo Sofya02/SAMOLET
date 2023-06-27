@@ -1,0 +1,175 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    font-family: 'Poppins';
+}
+
+.profile_1{
+    position: absolute;
+    /* width: 949px;
+    height: 550px; */
+    left: 570px;
+    top: 96px;
+
+}
+
+
+.t_profile_1{
+    position: absolute;
+    /* width: 299px;
+    height: 540px; */
+    left: 430px;
+    top: 265px;
+}
+
+
+.t_profile_2{
+    position: absolute;
+    width: 735px;
+    height: 490px;
+    left: 710px;
+    top: 905px;
+}
+
+.v1{
+    position: absolute;
+    width: 230px;
+    height: 160px;
+    left: 930px;
+    top: 840px;
+}
+
+.edit_photo{
+    position: absolute;
+    width: 138px;
+    height: 144px;
+    left: 1130px;
+    top: 860px;
+}
+
+.online{
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    left: 1090px;
+    top: 925px;
+}
+
+.offline{
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    left: 1215px;
+    top: 820px;
+}
+
+.v2{
+    position: absolute;
+    width: 210px;
+    height: 330px;
+    left: 1225px;
+    top: 1010px;
+}
+
+.card{
+    position: absolute;
+    width: 72px;
+    height:62px;
+    left: 1288px;
+    top: 1290px;
+}
+
+.edit_data{
+    position: absolute;
+    width: 270px;
+    height: 130px;
+    left: 920px;
+    top: 1287px;
+}
+
+.v3{
+    position: absolute;
+    width: 200px;
+    height: 235px;
+    left: 1035px;
+    top: 1185px;
+}
+
+.about_bear_hi{
+    position: absolute;
+    left: 220px;
+}
+
+.edit_data_2{
+    position: absolute;
+    left: 600px;
+}
+.projects{
+    position: absolute;
+    left: 220px;
+    top:7485px;
+}
+
+.years_team{
+    position: absolute;
+    left: 330px;
+    top:7595px;
+}
+
+.oc_pr{
+    position: absolute;
+    left: 440px;
+    top:7595px;
+}
+
+.figma_{
+    position: absolute;
+    left: 625px;
+    top:7525px;
+}
+.edit_request{
+    position: absolute;
+    left: 220px;
+    top:7730px;
+}
+
+.vector{
+    position: absolute;
+    left: 350px;
+    top:4010px;
+    width:780px;
+    height: 1200px;
+}
+
+.line_4{
+    width: 1700px;
+}
+
+/* .v_D_1,.v_D_2{
+    position: absolute;
+    top:3990px;
+}
+
+.v_D_1{
+    left:495px;
+}
+.v_D_2{
+    left:1075px;
+} */
+
+
+.about_bear_hi
+{
+    position: absolute;
+    left:200px;
+    top:8910px;
+}
+
+.edit_data_2{
+
+    position: absolute;
+    
+    top:8930px;
+}
