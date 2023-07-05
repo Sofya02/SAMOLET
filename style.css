@@ -23,69 +23,52 @@ html{
 }
 
 
-.profile-1{
+/* .profile-1{
     @apply absolute ml-492 -mt-492;
-}
+} */
 
-.t-profile-1{
+/* .t-profile-1{
     @apply absolute ml-400 -mt-310;
-}
+} */
 
 
 /*For block mind tables*/
-.t-profile-2{
-    position: absolute;
-    left: 650px;
-    top: 875px;
+/* .t-profile-2{
+    @apply absolute ml-650 -mt-620;
 }
 
 .v1{
-    position: absolute;
-    left: 865px;
-    top: 820px;
+    @apply absolute ml-865 -mt-680;
 }
 
 .edit-photo{
-    position: absolute;
-    left: 1080px;
-    top: 850px;
-}
+    @apply absolute ml-1080 -mt-650;
+} */
 
-.online{
-    position: absolute;
-    left: 1045px;
-    top: 905px;
+/* .online{
+    @apply absolute ml-1045 -mt-595;
+
 }
 
 .offline{
-    position: absolute;
-    left: 1170px;
-    top: 805px;
-}
+    @apply absolute ml-1170 -mt-690;
+} */
 
-.v2{
-    position: absolute;
-    left: 1155px;
-    top: 987px;
+/* .v2{
+    @apply absolute ml-1155 -mt-508;
 }
 
 .card{
-    position: absolute;
-    left: 1220px;
-    top: 1280px;
-}
+    @apply absolute ml-1190 -mt-220;
+} */
 
-.edit-data{
-    position: absolute;
-    left: 850px;
-    top: 1267px;
-}
+/* .edit-data{
+    @apply absolute ml-850 -mt-225;
+} */
 
-.v3{
-    position: absolute;
-    left: 985px;
-    top: 1170px;
-}
+/* .v3{
+    @apply absolute ml-985 -mt-325;
+} */
 
 
 
