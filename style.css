@@ -38,76 +38,59 @@ html{
 }
 
 
+/*For block mind tables*/
 .t-profile-2{
     position: absolute;
-    width: 735px;
-    height: 490px;
-    left: 710px;
-    top: 905px;
+    left: 650px;
+    top: 875px;
 }
 
 .v1{
     position: absolute;
-    width: 230px;
-    height: 160px;
-    left: 930px;
-    top: 840px;
+    left: 865px;
+    top: 820px;
 }
 
 .edit-photo{
     position: absolute;
-    width: 138px;
-    height: 144px;
-    left: 1130px;
-    top: 860px;
+    left: 1080px;
+    top: 850px;
 }
 
 .online{
     position: absolute;
-    width: 60px;
-    height: 30px;
-    left: 1090px;
-    top: 925px;
+    left: 1045px;
+    top: 905px;
 }
 
 .offline{
     position: absolute;
-    width: 60px;
-    height: 30px;
-    left: 1215px;
-    top: 820px;
+    left: 1170px;
+    top: 805px;
 }
 
 .v2{
     position: absolute;
-    width: 196px;
-    height: 330px;
-    left: 1225px;
-    top: 1010px;
+    left: 1155px;
+    top: 987px;
 }
 
 .card{
     position: absolute;
-    width: 72px;
-    height:62px;
-    left: 1288px;
-    top: 1290px;
+    left: 1220px;
+    top: 1280px;
 }
 
 .edit-data{
     position: absolute;
-    width: 270px;
-    height: 130px;
-    left: 920px;
-    top: 1287px;
+    left: 850px;
+    top: 1267px;
 }
 
 .v3{
     position: absolute;
-    width: 200px;
-    height: 235px;
-    left: 1035px;
-    top: 1185px;
+    left: 985px;
+    top: 1170px;
 }
 
 
