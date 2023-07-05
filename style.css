@@ -24,17 +24,11 @@ html{
 
 
 .profile-1{
-    position: absolute;
-    left: 492px;
-    top: 96px;
-
+    @apply absolute ml-492 -mt-492;
 }
 
-
 .t-profile-1{
-    position: absolute;
-    left: 430px;
-    top: 265px;
+    @apply absolute ml-400 -mt-310;
 }
 
 
